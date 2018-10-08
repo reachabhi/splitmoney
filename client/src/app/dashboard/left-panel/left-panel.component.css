@@ -1,0 +1,12 @@
+:host {
+  background: aqua;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 20%;
+}
+
+.friends {
+  font-size: 1.1em;
+  margin: 30px;
+}

@@ -1,0 +1,9 @@
+:host {
+  display: block;
+  height: calc(100% - 50px);
+}
+
+.dashboard-content {
+  height: 100%;
+  display: flex;
+}

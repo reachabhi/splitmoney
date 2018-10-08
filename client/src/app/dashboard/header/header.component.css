@@ -1,0 +1,16 @@
+:host {
+  background: #F48024;
+  display: block;
+  height: 50px;
+  width: 100%;
+}
+
+.sitename {
+  align-items: center;
+  color: #fff;
+  display: flex;
+  font-size: 1.5em;
+  font-weight: 600;
+  height: 100%;
+  padding-left: 100px;
+}
